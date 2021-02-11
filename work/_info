@@ -1,0 +1,357 @@
+m255
+K4
+z2
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+dC:/intelFPGA_lite/16.1/modelsim_ase/win32aloem
+Eadd4
+Z0 w1610886019
+Z1 DPx4 ieee 15 std_logic_arith 0 22 [G314=:2zXJ`VORJe1J@Z1
+Z2 DPx4 ieee 18 std_logic_unsigned 0 22 ;eZjO2D4ZDz<]0>8AL<ne1
+Z3 DPx3 std 6 textio 0 22 zE1`LPoLg^DX3Oz^4Fj1K3
+Z4 DPx4 ieee 14 std_logic_1164 0 22 eNV`TJ_GofJTzYa?f<@Oe1
+Z5 dD:/ModelSim Projects
+Z6 8D:\ModelSim Projects\Add4.vhd
+Z7 FD:\ModelSim Projects\Add4.vhd
+l0
+L7
+Vm8d9zAn<<VlR^0=50D6ce1
+!s100 Oo?OD=]Qc9O<bX2eQkElo0
+Z8 OV;C;10.5b;63
+32
+Z9 !s110 1610886023
+!i10b 1
+Z10 !s108 1610886023.000000
+Z11 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|D:\ModelSim Projects\Add4.vhd|
+Z12 !s107 D:\ModelSim Projects\Add4.vhd|
+!i113 1
+Z13 o-work work -2002 -explicit
+Z14 tExplicit 1 CvgOpt 0
+Artl
+R1
+R2
+R3
+R4
+DEx4 work 4 add4 0 22 m8d9zAn<<VlR^0=50D6ce1
+l17
+L15
+VneJ_l8hddUK9^_jBo=KVQ1
+!s100 ][S=Y^R5o<HXmJZFJ3MKk1
+R8
+32
+R9
+!i10b 1
+R10
+R11
+R12
+!i113 1
+R13
+R14
+Ecomparator2
+Z15 w1610906718
+R3
+R4
+R5
+Z16 8D:/ModelSim Projects/comparator2.vhd
+Z17 FD:/ModelSim Projects/comparator2.vhd
+l0
+L5
+VK]8N7E:nInz@[Uhh<NIE02
+!s100 A]i<^bHDb[djAd^MG3i`>0
+R8
+32
+Z18 !s110 1610906722
+!i10b 1
+Z19 !s108 1610906722.000000
+Z20 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|D:/ModelSim Projects/comparator2.vhd|
+Z21 !s107 D:/ModelSim Projects/comparator2.vhd|
+!i113 1
+R13
+R14
+Adataflow
+R3
+R4
+DEx4 work 11 comparator2 0 22 K]8N7E:nInz@[Uhh<NIE02
+l13
+L12
+VRXlhj;PkzWULiFzhZ82:V2
+!s100 =VSTTO>Ozol748UPlhYij0
+R8
+32
+R18
+!i10b 1
+R19
+R20
+R21
+!i113 1
+R13
+R14
+Ecounter
+w1611151815
+R3
+R4
+R5
+8D:\ModelSim Projects\4bcounter.vhd
+FD:\ModelSim Projects\4bcounter.vhd
+l0
+L4
+Vl9zQY3<XOV[;XBcUaWdho0
+!s100 _6mVX@RCl>0Gman61UdI30
+R8
+33
+!s110 1611151822
+!i10b 1
+!s108 1611151822.000000
+!s90 -reportprogress|300|-work|work|-2008|-explicit|-stats=none|D:\ModelSim Projects\4bcounter.vhd|
+!s107 D:\ModelSim Projects\4bcounter.vhd|
+!i113 1
+Z22 o-work work -2008 -explicit
+R14
+Ecounter4b
+Z23 w1611152765
+R1
+R2
+R3
+R4
+R5
+Z24 8D:/ModelSim Projects/counter4b.vhd
+Z25 FD:/ModelSim Projects/counter4b.vhd
+l0
+L5
+Vj:l6LIJIm0MDl04z[IaU<1
+!s100 iZ0[Vg?aoi1RnU4SZ`Yc<0
+R8
+33
+Z26 !s110 1611152777
+!i10b 1
+Z27 !s108 1611152777.000000
+Z28 !s90 -reportprogress|300|-work|work|-2008|-explicit|-stats=none|D:/ModelSim Projects/counter4b.vhd|
+Z29 !s107 D:/ModelSim Projects/counter4b.vhd|
+!i113 1
+R22
+R14
+Acounter_arch
+R1
+R2
+R3
+R4
+DEx4 work 9 counter4b 0 22 j:l6LIJIm0MDl04z[IaU<1
+l12
+L11
+VHT;nDk7fRNj:O>g48<^VN1
+!s100 g7bbJmnAKh80WVbBocY;_2
+R8
+33
+R26
+!i10b 1
+R27
+R28
+R29
+!i113 1
+R22
+R14
+Edata_reg4b
+Z30 w1611153852
+R3
+R4
+R5
+Z31 8D:/ModelSim Projects/data_reg4b.vhd
+Z32 FD:/ModelSim Projects/data_reg4b.vhd
+l0
+L4
+VQCOV>E?:oGBmb=GbcM;L01
+!s100 ZgI@0GO1cUc`5J0:H[=RP1
+R8
+32
+Z33 !s110 1611153856
+!i10b 1
+Z34 !s108 1611153856.000000
+Z35 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|D:/ModelSim Projects/data_reg4b.vhd|
+Z36 !s107 D:/ModelSim Projects/data_reg4b.vhd|
+!i113 1
+R13
+R14
+Areg_arch
+R3
+R4
+DEx4 work 10 data_reg4b 0 22 QCOV>E?:oGBmb=GbcM;L01
+l11
+L10
+V5:MBWKm70F2``IV8LjSEd2
+!s100 a0`l]bzQ;::h`60PJAeJA0
+R8
+32
+R33
+!i10b 1
+R34
+R35
+R36
+!i113 1
+R13
+R14
+Edff
+Z37 w1611153426
+R3
+R4
+R5
+Z38 8D:/ModelSim Projects/DFF.vhd
+Z39 FD:/ModelSim Projects/DFF.vhd
+l0
+L4
+V]RQkb^i0k0DhS[55Hi@WF2
+!s100 _^C6mB^ONh3cSNWnE9jGE3
+R8
+32
+Z40 !s110 1611153446
+!i10b 1
+Z41 !s108 1611153446.000000
+Z42 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|D:/ModelSim Projects/DFF.vhd|
+Z43 !s107 D:/ModelSim Projects/DFF.vhd|
+!i113 1
+R13
+R14
+Adff_arch
+R3
+R4
+DEx4 work 3 dff 0 22 ]RQkb^i0k0DhS[55Hi@WF2
+l10
+L9
+VnjU1a6MNRaT0[?0GO[QO?2
+!s100 B;KLI:H7ij2;N?4mAjaXo2
+R8
+32
+R40
+!i10b 1
+R41
+R42
+R43
+!i113 1
+R13
+R14
+Efulladd
+Z44 w1610907609
+R3
+R4
+R5
+Z45 8D:/ModelSim Projects/fulladd.vhd
+Z46 FD:/ModelSim Projects/fulladd.vhd
+l0
+L4
+V@SFm6QQdkTH=[SaCCI:971
+!s100 TeLW05<e>ZB[mcddbAZY=1
+R8
+32
+Z47 !s110 1610907616
+!i10b 1
+Z48 !s108 1610907615.000000
+Z49 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|D:/ModelSim Projects/fulladd.vhd|
+Z50 !s107 D:/ModelSim Projects/fulladd.vhd|
+!i113 1
+R13
+R14
+Astruct
+R3
+R4
+DEx4 work 7 fulladd 0 22 @SFm6QQdkTH=[SaCCI:971
+l10
+L9
+VzTWaRZLj1X@J>fYVeW<ZD3
+!s100 IeQ50B>[GFJL0ebPK:k1z0
+R8
+32
+R47
+!i10b 1
+R48
+R49
+R50
+!i113 1
+R13
+R14
+Ereg_file
+Z51 w1611158366
+Z52 DPx4 ieee 11 numeric_std 0 22 :ASDNFgHXf_ih3J@9F3Ze1
+R1
+R2
+R3
+R4
+R5
+Z53 8D:/ModelSim Projects/reg_file.vhd
+Z54 FD:/ModelSim Projects/reg_file.vhd
+l0
+L6
+VC=_g?A9Y6E[WC>YNLQmof3
+!s100 CjQ^;aS7kUOS<?CPQ@TiJ1
+R8
+33
+Z55 !s110 1611158370
+!i10b 1
+Z56 !s108 1611158370.000000
+Z57 !s90 -reportprogress|300|-work|work|-2008|-explicit|-stats=none|D:/ModelSim Projects/reg_file.vhd|
+Z58 !s107 D:/ModelSim Projects/reg_file.vhd|
+!i113 1
+R22
+R14
+Arf_arch
+R52
+R1
+R2
+R3
+R4
+DEx4 work 8 reg_file 0 22 C=_g?A9Y6E[WC>YNLQmof3
+l19
+L16
+VSG4Y`>MWYe^lULCQLAJ;V3
+!s100 T3;:dBfBVV58NmH`8:]EQ1
+R8
+33
+R55
+!i10b 1
+R56
+R57
+R58
+!i113 1
+R22
+R14
+Eshift_reg
+Z59 w1611153955
+R3
+R4
+R5
+Z60 8D:/ModelSim Projects/shift_reg.vhd
+Z61 FD:/ModelSim Projects/shift_reg.vhd
+l0
+L4
+VKDcn=@A]OKd`M?TQ9@YbS0
+!s100 9V8j9_z^`Rf`E;bLWHoY>3
+R8
+33
+Z62 !s110 1611154325
+!i10b 1
+Z63 !s108 1611154325.000000
+Z64 !s90 -reportprogress|300|-work|work|-2008|-explicit|-stats=none|D:/ModelSim Projects/shift_reg.vhd|
+Z65 !s107 D:/ModelSim Projects/shift_reg.vhd|
+!i113 1
+R22
+R14
+Ashift_arch
+R3
+R4
+DEx4 work 9 shift_reg 0 22 KDcn=@A]OKd`M?TQ9@YbS0
+l10
+L9
+VVCG;;H>ecmm?`d?;PhLeF2
+!s100 Z1_i<bd_0?;:7b3Ci`;=P0
+R8
+33
+R62
+!i10b 1
+R63
+R64
+R65
+!i113 1
+R22
+R14
